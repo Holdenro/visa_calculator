@@ -97,7 +97,6 @@ submitBtn.addEventListener('click', event => {
 
   // prevents the fields to be 'filled' with invalid input elements
   event.preventDefault();
-  console.log(amountAllDays);
   // if (amountAllDays.value != 0) {amountAllDays = 0};
 
   // defining variables and assigning them to values you can use in calculation
